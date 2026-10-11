@@ -1,0 +1,11 @@
+**/.git/
+**/.git copy/
+**/node_modules/
+**/.next/
+**/.gradle/
+**/build/
+**/.idea/
+**/.env*
+**/local.properties
+.DS_Store
+*.tsbuildinfo
