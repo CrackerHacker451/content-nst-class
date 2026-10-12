@@ -1,3 +1,9 @@
-a=10*9*8*7*6*5*4*3*2*1
-for a in range(10):
-     print(a, end=' *')
+for i in range(5):
+    if i ==3:
+        i=100
+    print(i)
+print("code 2")
+x=9 
+for i in range(x):
+    x=x-1
+    print(x)
